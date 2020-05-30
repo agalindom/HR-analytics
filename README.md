@@ -24,9 +24,9 @@
 
 # Models
 - Models where created using a 5 fold cross validation strategy and AUC as metric
-Random Forest: 0.6638
-LightGBM AUC: 0.6631
-XGBoost AUC: 0.6718
+    - Random Forest: 0.6638
+    - LightGBM AUC: 0.6631
+    - XGBoost AUC: 0.6718
 
 # Usage 
 - run the bash file **runTrain.sh** as follows:
